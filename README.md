@@ -34,6 +34,7 @@ Beautiful cinematic landing page with swords logo and "Begin Journey" button.
 Create new account or login with existing credentials.
 
 ![Login Screen](2.png)
+regiter if not login
 ![Register Screen](2-1.png)
 
 ### 3. Course Selection
@@ -45,6 +46,7 @@ Add and manage your study subjects with priority and credit hours.
 Interactive timetable and checklist with progress tracking.
 
 ![Dashboard](4.png)
+verify the courses:
 ![Checklist View](4-1.png)
 
 ### 5. Congratulations Screen
