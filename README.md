@@ -28,7 +28,7 @@ Students add their subjects with priority level and credit hours to build their 
 ### 4. Daily Dashboard
 Shows the AI-generated timetable and an interactive checklist where users can mark tasks as complete with visual feedback.
 
-![Dashboard](4.png)
+![Dashboard](4-0.png)
 
 After completeing daily tasks user verify each course task
 
@@ -37,7 +37,7 @@ After completeing daily tasks user verify each course task
 ### 5. Congratulations Screen
 A grand celebration appears when all tasks of the day are completed, with motivational message and option to proceed to next day.
 
-![Congratulations](5.png)
+![Congratulations](5-0.png)
 
 ## Technologies Used
 
