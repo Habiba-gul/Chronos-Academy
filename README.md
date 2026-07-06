@@ -18,15 +18,15 @@
 - **React 18** (via CDN)
 - **Babel Standalone** for JSX
 - **Tailwind CSS** for modern styling
-- **HTML5 Canvas API** for animated background (snow + stars)
-- **Web Audio API** for immersive sound effects
+- **HTML5 Canvas API** for animated background
+- **Web Audio API** for sound effects
 - **Google AI Studio** for development
 - **Local Storage API** for saving progress
 
 ## Step-by-Step Working Flow
 
 ### 1. Welcome Screen
-Beautiful cinematic landing page with swords logo and "Begin Journey" button.
+Beautiful landing page with swords logo and "Begin Journey" button.
 
 ![Welcome Screen](1.png)
 
@@ -34,20 +34,17 @@ Beautiful cinematic landing page with swords logo and "Begin Journey" button.
 Create new account or login with existing credentials.
 
 ![Login Screen](2.png)
-regiter if not login
 ![Register Screen](2-1.png)
 
 ### 3. Course Selection
-Add and manage your study subjects with priority and credit hours.
+Add and manage your study subjects.
 
 ![Course Selection](3.png)
 
-### 4. Daily Dashboard & Tasks
+### 4. Daily Dashboard
 Interactive timetable and checklist with progress tracking.
 
 ![Dashboard](4.png)
-verify the courses:
-![Checklist View](4-1.png)
 
 ### 5. Congratulations Screen
 Big celebration when you finish all tasks of the day.
