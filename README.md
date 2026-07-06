@@ -1,17 +1,17 @@
 # Chronos Academy: The Scholar's Odyssey
 
-![Welcome Screen](1.jpg)
+![Welcome Screen](1.png)
 
 ## Project Overview
 
-**Chronos Academy** is a beautiful, cinematic fantasy-themed AI-powered study planner. It transforms ordinary studying into an epic heroic journey inside a mystical academy. Designed for young students who love knights, fantasy worlds, anime, and RPG games, it makes learning feel magical and motivating.
+**Chronos Academy** is a cinematic, fantasy-themed AI-powered study planner. It transforms ordinary studying into an epic heroic journey inside a mystical academy. Designed for young students who love knights, fantasy, anime, and RPG games.
 
 ## Why This Project?
 
-- Makes studying exciting instead of boring
-- Uses fantasy and knight themes to motivate students
-- Combines gamification with real academic tools
-- Perfect for students who want discipline with fun
+- Makes studying fun and motivating
+- Uses knight & fantasy themes to inspire students
+- Combines real academic tools with gamification
+- Perfect for students who want discipline with adventure
 
 ## Technologies Used
 
@@ -19,38 +19,38 @@
 - **Babel Standalone** for JSX
 - **Tailwind CSS** for modern styling
 - **HTML5 Canvas API** for animated background (snow + stars)
-- **Web Audio API** for sound effects (chimes & fanfare)
-- **Google AI Studio** for development and testing
-- **Local Storage API** for saving user progress
+- **Web Audio API** for immersive sound effects
+- **Google AI Studio** for development
+- **Local Storage API** for saving progress
 
 ## Step-by-Step Working Flow
 
 ### 1. Welcome Screen
-Beautiful cinematic landing page with epic swords logo and "Begin Journey" button.
+Beautiful cinematic landing page with swords logo and "Begin Journey" button.
 
-![Welcome Screen](1.jpg)
+![Welcome Screen](1.png)
 
 ### 2. Chronos Gate (Login / Register)
-Users can register a new account or login with existing credentials.
+Create new account or login with existing credentials.
 
-![Login Screen](2.jpg)
-![Register Screen](2-1.jpg)
+![Login Screen](2.png)
+![Register Screen](2-1.png)
 
-### 3. Course Management
-Add, edit, and manage your study subjects with priority and credit hours.
+### 3. Course Selection
+Add and manage your study subjects with priority and credit hours.
 
-![Course Management](3.jpg)
+![Course Selection](3.png)
 
-### 4. Daily Dashboard & Checklist
-View your AI-generated timetable and complete interactive daily tasks.
+### 4. Daily Dashboard & Tasks
+Interactive timetable and checklist with progress tracking.
 
-![Dashboard](4.jpg)
-![Checklist View](4-1.jpg)
+![Dashboard](4.png)
+![Checklist View](4-1.png)
 
 ### 5. Congratulations Screen
-Grand celebration when you complete all tasks of the day.
+Big celebration when you finish all tasks of the day.
 
-![Congratulations](5.jpg)
+![Congratulations](5.png)
 
 ## How to Run
 
@@ -59,6 +59,5 @@ Grand celebration when you complete all tasks of the day.
 
 ---
 
-**Made with passion to help students study like heroes.**
-
-Chronos Academy © 2026
+**Made with passion for students who want to study like heroes.**  
+**Chronos Academy © 2026**
