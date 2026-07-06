@@ -17,6 +17,7 @@ Beautiful cinematic landing page with crossed swords logo and "Begin Journey" bu
 Users can create a new account or login with their credentials to access the academy.
 
 ![Login Screen](2.png)
+
 ![Register Screen](2-1.png)
 
 ### 3. Course Selection
@@ -28,6 +29,9 @@ Students add their subjects with priority level and credit hours to build their 
 Shows the AI-generated timetable and an interactive checklist where users can mark tasks as complete with visual feedback.
 
 ![Dashboard](4.png)
+
+After completeing daily tasks user verify each course task
+
 ![Checklist View](4-1.png)
 
 ### 5. Congratulations Screen
